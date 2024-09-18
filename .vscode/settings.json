@@ -1,0 +1,12 @@
+{
+    "editor.mouseWheelZoom": true,
+    "liveServer.settings.ChromeDebuggingAttachment": false,
+    "livePreview.hostIP": "192.168.222.92",
+    "livePreview.customExternalBrowser": "Edge",
+    "livePreview.defaultPreviewPath": "",
+    "liveServer.settings.useLocalIp": true,
+    "livePreview.httpHeaders": {
+        
+        "Accept-Ranges": "bytes"
+    }
+}
